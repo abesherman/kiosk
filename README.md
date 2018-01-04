@@ -1,6 +1,7 @@
 # Ubuntu Kiosk
 Turn Ubuntu server into Kiosk
 
-# Installation
+# Installation is automatically. Just run
 
-Installation is automatically. Just run  ``sudo ./install.sh``
+chmod +x install.sh
+sudo ./install.sh
